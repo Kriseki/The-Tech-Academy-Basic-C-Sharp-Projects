@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe.config
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\TechAcademyDailyReport\TechAcademyDailyReport\bin\Debug\TechAcademyDailyReport.pdb
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.exe
+C:\Users\Student\Documents\GitHub\Tech-Academy-Projects\TechAcademyDailyReport\TechAcademyDailyReport\obj\Debug\TechAcademyDailyReport.pdb

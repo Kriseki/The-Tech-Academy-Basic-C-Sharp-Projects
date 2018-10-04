@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\AcmeShipping\AcmeShipping\bin\Debug\AcmeShipping.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\AcmeShipping\AcmeShipping\bin\Debug\AcmeShipping.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\AcmeShipping\AcmeShipping\bin\Debug\AcmeShipping.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\AcmeShipping\AcmeShipping\obj\Debug\AcmeShipping.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\AcmeShipping\AcmeShipping\obj\Debug\AcmeShipping.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\AcmeShipping\AcmeShipping\obj\Debug\AcmeShipping.csprojResolveAssemblyReference.cache

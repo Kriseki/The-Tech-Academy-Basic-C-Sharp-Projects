@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Teamguess\Teamguess\bin\Debug\Teamguess.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Teamguess\Teamguess\bin\Debug\Teamguess.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Teamguess\Teamguess\bin\Debug\Teamguess.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Teamguess\Teamguess\obj\Debug\Teamguess.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Teamguess\Teamguess\obj\Debug\Teamguess.pdb

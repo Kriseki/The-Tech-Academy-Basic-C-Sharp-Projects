@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\iterationexcersize\iterationexcersize\bin\Debug\iterationexcersize.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\iterationexcersize\iterationexcersize\bin\Debug\iterationexcersize.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\iterationexcersize\iterationexcersize\bin\Debug\iterationexcersize.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\iterationexcersize\iterationexcersize\obj\Debug\iterationexcersize.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\iterationexcersize\iterationexcersize\obj\Debug\iterationexcersize.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\iterationexcersize\iterationexcersize\obj\Debug\iterationexcersize.pdb

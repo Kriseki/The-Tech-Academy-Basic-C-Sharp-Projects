@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method4\Method4\bin\Debug\Method4.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method4\Method4\bin\Debug\Method4.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method4\Method4\bin\Debug\Method4.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method4\Method4\obj\Debug\Method4.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method4\Method4\obj\Debug\Method4.pdb

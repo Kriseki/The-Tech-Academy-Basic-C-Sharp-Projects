@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method3\Method3\bin\Debug\Method3.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method3\Method3\bin\Debug\Method3.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method3\Method3\bin\Debug\Method3.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method3\Method3\obj\Debug\Method3.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method3\Method3\obj\Debug\Method3.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method3\Method3\obj\Debug\Method3.pdb

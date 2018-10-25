@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method7\Method7\bin\Debug\Method7.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method7\Method7\bin\Debug\Method7.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method7\Method7\bin\Debug\Method7.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method7\Method7\obj\Debug\Method7.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method7\Method7\obj\Debug\Method7.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method7\Method7\obj\Debug\Method7.csprojResolveAssemblyReference.cache

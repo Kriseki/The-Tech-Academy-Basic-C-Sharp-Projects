@@ -14,6 +14,8 @@ namespace Method7
             n.FirstName = "Sample";
             n.LastName = "Student";
             n.SayName();
+            IQuittable m = new Employee();
+            m.Quit();
             Console.ReadLine();
         }
     }

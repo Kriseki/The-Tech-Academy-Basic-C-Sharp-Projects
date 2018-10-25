@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method6\Method6\bin\Debug\Method6.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method6\Method6\bin\Debug\Method6.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method6\Method6\bin\Debug\Method6.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method6\Method6\obj\Debug\Method6.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method6\Method6\obj\Debug\Method6.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method6\Method6\obj\Debug\Method6.pdb

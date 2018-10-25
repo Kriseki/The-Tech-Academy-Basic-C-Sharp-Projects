@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method5\Method5\bin\Debug\Method5.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method5\Method5\bin\Debug\Method5.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method5\Method5\bin\Debug\Method5.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method5\Method5\obj\Debug\Method5.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method5\Method5\obj\Debug\Method5.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Method5\Method5\obj\Debug\Method5.csprojResolveAssemblyReference.cache

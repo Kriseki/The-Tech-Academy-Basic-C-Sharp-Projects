@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Enums\Enums\obj\Debug\Enums.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Enums\Enums\obj\Debug\Enums.pdb

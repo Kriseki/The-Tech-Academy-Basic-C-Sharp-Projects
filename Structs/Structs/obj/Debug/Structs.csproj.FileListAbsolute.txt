@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\Structs\Structs\obj\Debug\Structs.pdb

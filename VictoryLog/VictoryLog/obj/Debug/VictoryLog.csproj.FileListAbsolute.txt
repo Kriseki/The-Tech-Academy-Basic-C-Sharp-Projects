@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\VictoryLog\VictoryLog\bin\Debug\VictoryLog.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\VictoryLog\VictoryLog\bin\Debug\VictoryLog.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\VictoryLog\VictoryLog\bin\Debug\VictoryLog.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\VictoryLog\VictoryLog\obj\Debug\VictoryLog.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\VictoryLog\VictoryLog\obj\Debug\VictoryLog.pdb

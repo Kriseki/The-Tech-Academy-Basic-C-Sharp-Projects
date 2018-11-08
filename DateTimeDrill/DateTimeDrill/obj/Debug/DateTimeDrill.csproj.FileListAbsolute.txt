@@ -1,0 +1,5 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.pdb

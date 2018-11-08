@@ -1,0 +1,6 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LaBambaLambda\LaBambaLambda\bin\Debug\LaBambaLambda.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LaBambaLambda\LaBambaLambda\bin\Debug\LaBambaLambda.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LaBambaLambda\LaBambaLambda\bin\Debug\LaBambaLambda.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LaBambaLambda\LaBambaLambda\obj\Debug\LaBambaLambda.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LaBambaLambda\LaBambaLambda\obj\Debug\LaBambaLambda.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\LaBambaLambda\LaBambaLambda\obj\Debug\LaBambaLambda.pdb

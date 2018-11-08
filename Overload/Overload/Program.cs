@@ -15,8 +15,9 @@ namespace Overload
             Employee m = new Employee();
             m.ID = 002;
 
-            n.GetID(n.ID, m.ID);
+            bool status = n.ID == m.ID;
             
+            Console.WriteLine("Does employee 1 have the same ID as employee 2? " + status);
             Console.ReadLine();
 
         }

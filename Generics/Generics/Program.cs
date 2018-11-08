@@ -10,10 +10,23 @@ namespace Generics
     {
         static void Main(string[] args)
         {
-            List<string> employee = new List<string> { "one", "two", "three" };
-            List<int> employee1 = new List<int> { 1, 2, 3 };
-            employee.ForEach(em => Console.WriteLine(em));
-            employee1.ForEach(em => Console.WriteLine(em));
+            Employee<string> n = new Employee<string>();
+            n.things = new List<string>()
+            {
+                "one",
+                "two",
+                "three"
+            };
+
+            Employee<int> m = new Employee<int>();
+            m.things = new List<int>()
+            {
+                1,
+                2,
+                3
+            };
+            n.things.ForEach(x => Console.WriteLine(x));
+            m.things.ForEach(z => Console.WriteLine(z));
             Console.ReadLine();
         }
     }
